@@ -10,7 +10,7 @@ Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm tr
 🧬 You may not believe and don't like it, but If it is true now, it is true no matter what - and it'd be better to you handle with it fast.<br><br>
 🌖 You are free to make your choices, but prisoner of the consequences
 
-
+<hr>
 
 <h3> Tech studies 💻 </h3>
 
