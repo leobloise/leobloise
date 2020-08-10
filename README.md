@@ -1,5 +1,5 @@
 <h1> Hi, I'm Leo! :octocat: </h1> 
-<hr>
+
 
 Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm trying to put this all together and help people with problems, products and science. When I'm not making my coffee or getting mad with some sh1t code that was made by me, I'm playing video games, drawing, listenning to 🎶 and podcasts about tech.  
 
@@ -10,7 +10,7 @@ Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm tr
 🧬 You may not believe and don't like it, but If it is true now, it is true no matter what - and it'd be better to you handle with it fast.<br><br>
 🌖 You are free to make your choices, but prisoner of the consequences
 
-<hr>
+
 
 <h3> Tech studies 💻 </h3>
 
