@@ -1,14 +1,14 @@
 <h1> Hi, I'm Leo! :octocat: </h1> 
 
 
-Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm trying to put this all together and help people with problems, products and science. When I'm not making my coffee or getting mad with some sh1t code that was made by me, I'm playing video games, drawing, listenning to 🎶 and podcasts about tech.  
+Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm trying to put this all together and solve problems, creat products and do science. When I'm not brewing my coffee or getting mad with at sh1t code made by me, I'm playing video games, drawing, listening to 🎶 and podcasts about tech.  
 
 <h2> My values </h2> 
 
-☄️ Imagination is more important than knowledge, but It still important <br><br>
-🏞️ The truth is like a river: As time pass by, it'll change - and you need to get these changes fast. <br><br>
-🧬 You may not believe and don't like it, but If it is true now, it is true no matter what - and it'd be better to you handle with it fast.<br><br>
-🌖 You are free to make your choices, but prisoner of the consequences
+☄️ Imagination is more important than knowledge, but It's still important <br><br>
+🏞️ The truth is like a river: As time pass by, it'll change - and you need to understand these changes fast. <br><br>
+🧬 You may not believe it neither like it, but If it is true now, it is true no matter what - and it'd be better to you handle with it fast.<br><br>
+🌖 You are free to make your choices, but you are a prisoner of the consequences
 
 <hr>
 
