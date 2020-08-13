@@ -18,9 +18,9 @@ Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm tr
 
 <strong><em> Studying now --></em></strong> Javascript, Typescript, Node JS and English.
 
-<strong><em> Study later --></em></strong> MySQL, NoSQL, DevOps and PHP.
+<strong><em> Study later --></em></strong> MySQL, NoSQL, DevOps and ReactJS.
 
-<strong><em> Want to learn --></em></strong> TDD, Python and C#.
+<strong><em> Want to learn --></em></strong> TDD and Python.
 
 <hr>
 
