@@ -20,7 +20,7 @@ Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm tr
 
 <strong><em> Study later --></em></strong> NoSQL and DevOps.
 
-<strong><em> Want to learn --></em></strong> TDD.
+<strong><em> Want to learn --></em></strong> Java.
 
 <hr>
 
