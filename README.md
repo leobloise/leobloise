@@ -1,7 +1,7 @@
 <h1> Hi, I'm Leo! :octocat: </h1> 
 
 
-Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm trying to put this all together and solve problems, creat products and do science. When I'm not brewing my coffee or getting mad with at sh1t code made by me, I'm playing video games, drawing, listening to 🎶 and podcasts about tech.  
+Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm trying to put this all together and solve problems, creat products and do science. When I'm not brewing my coffee or getting mad with sh1t code made by me, I'm playing video games, drawing, listening to 🎶 and podcasts about tech.  
 
 <h2> My values </h2> 
 
