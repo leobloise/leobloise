@@ -14,9 +14,9 @@ Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm tr
 
 <h3> Tech studies 💻 </h3>
 
-<strong><em> I'm good at --> </em></strong> CSS3, HTML5, Javascript and GIT.
+<strong><em> I'm good at --> </em></strong> CSS3, HTML5, Javascript, GIT, PHP and MySQL
 
-<strong><em> Studying now --></em></strong> Java, PHP, Linux, MySQL.
+<strong><em> Studying now --></em></strong> Linux
 
 <strong><em> Study later --></em></strong> TDD, DDD, Design Patterns.
 
