@@ -26,5 +26,5 @@ Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm tr
 
 <h3> How to contact me: 📫</h3>
 
---> You can found me at [linkedin](https://www.linkedin.com/in/leonardo-bloise-65b312194/ ) 📱 <br><br>
+--> You can find me at [linkedin](https://www.linkedin.com/in/leonardo-bloise-65b312194/ ) 📱 <br><br>
 
