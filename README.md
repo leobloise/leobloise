@@ -1,7 +1,10 @@
 <h1> Hi, I'm Leo! :octocat: </h1> 
 
 
-Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm trying to put this all together and solve problems, creat products and do science. When I'm not brewing my coffee or getting mad with sh1t code made by me, I'm playing video games, drawing, listening to 🎶 and podcasts about tech.  
+Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm trying to put this all together and solve problems, creat products and do science. When I'm not
+getting mad with sh1t code made by me, I'm playing video games, listening to 🎶 and podcasts about tech.
+
+Learning and in love with Ubuntu
 
 <h2> My values </h2> 
 
@@ -16,11 +19,11 @@ Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm tr
 
 <strong><em> I'm good at --> </em></strong> CSS3, HTML5, Javascript and GIT
 
-<strong><em> Studying now --></em></strong> Python, Django
+<strong><em> Studying now --></em></strong> Javascript, Node Js, React and Front - End 
 
-<strong><em> Study later --></em></strong> Data Science
+<strong><em> Study later --></em></strong> Back - end 
 
-<strong><em> Want to learn --></em></strong> NoSQL and DevOps.
+<strong><em> Want to learn --></em></strong> DevOps
 
 <hr>
 
