@@ -17,7 +17,7 @@ Learning and in love with Ubuntu
 
 <h3> Tech studies 💻 </h3>
 
-<strong><em> I'm good at --> </em></strong> CSS3, HTML5, Javascript and GIT
+<strong><em> I'm good at --> </em></strong> CSS3, HTML5, Javascript, GIT and PHP
 
 <strong><em> Studying now --></em></strong> Javascript, Node Js, React and Front - End 
 
