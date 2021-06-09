@@ -19,11 +19,7 @@ Learning and in love with Ubuntu
 
 <strong><em> I'm good at --> </em></strong> CSS3, HTML5, Javascript, GIT and PHP
 
-<strong><em> Studying now --></em></strong> Javascript, Node Js, React and Front - End 
-
-<strong><em> Study later --></em></strong> Back - end 
-
-<strong><em> Want to learn --></em></strong> DevOps
+<strong><em> Studying now --></em></strong> Python, R and Data Science
 
 <hr>
 
