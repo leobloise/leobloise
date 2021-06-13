@@ -1,8 +1,8 @@
 <h1> Hi, I'm Leo! :octocat: </h1> 
 
 
-Hello, I'm Leo and I really love ☕, life science and programming. Thus, I'm trying to put this all together and solve problems, creat products and do science. When I'm not
-getting mad with sh1t code made by me, I'm playing video games, listening to 🎶 and podcasts about tech.
+Hello, I'm Leo and I really love arts, science and programming. Thus, I'm trying to put this all together and solve problems, creat products and do science. When I'm not
+getting mad with sh1t code made by me, I'm playing video games, listening to 🎶 and drawing cartoon stuff.
 
 Learning and in love with Ubuntu
 
@@ -19,11 +19,12 @@ Learning and in love with Ubuntu
 
 <strong><em> I'm good at --> </em></strong> CSS3, HTML5, Javascript, GIT and PHP
 
-<strong><em> Studying now --></em></strong> Python, R and Data Science
+<strong><em> Focusing now --></em></strong> React, JavaScript
 
 <hr>
 
 <h3> How to contact me: 📫</h3>
 
 --> You can find me at [linkedin](https://www.linkedin.com/in/leonardo-bloise-65b312194/ ) 📱 <br><br>
+--> I'M OPEN TO WORK!
 
