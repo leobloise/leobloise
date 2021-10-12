@@ -19,7 +19,7 @@ Learning and in love with Ubuntu
 
 <strong><em> I'm good at --> </em></strong> CSS3, HTML5, Javascript, GIT and PHP
 
-<strong><em> Focusing now --></em></strong> Angular, JavaScript, Docker and Gitlab
+<strong><em> Focusing now --></em></strong> React, JavaScript, Docker and Gitlab
 
 <hr>
 
